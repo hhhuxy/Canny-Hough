@@ -48,11 +48,11 @@ python hough.py
 
 canny.py:
 
-<img src="D:\大三\大三下\cv\作业\钱币检测\img\canny_demo.png" alt="canny_demo" style="zoom:50%;" />
+<img src=".\img\canny_demo.png" alt="canny_demo" style="zoom:50%;" />
 
 hough.py:
 
-<img src="D:\大三\大三下\cv\作业\钱币检测\img\hough_demo.png" alt="hough_demo" style="zoom:50%;" />
+<img src=".\img\hough_demo.png" alt="hough_demo" style="zoom:50%;" />
 
 
 
